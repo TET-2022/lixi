@@ -213,7 +213,7 @@ echo '<script>alert("' . $cauchuc[array_rand($cauchuc)] . '")</script>';
         }
     </style>
 
-    //<img style="width:550px;position:fixed;z-index:9999;bottom:0px;left:0px" src="/assets/imgs/bottom.png" />
+    /*<img style="width:550px;position:fixed;z-index:9999;bottom:0px;left:0px" src="/assets/imgs/bottom.png" />*/
     <center><img id="upthe" style="width:400px;height: 300px;" src="lixi.jpg"></center>
     <div class="row">
 
